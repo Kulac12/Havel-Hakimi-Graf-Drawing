@@ -5,6 +5,7 @@ Bu projede Havel Hakimi Algoritması kullanıldı. Kullanıcıdan bir grafın de
 ÖZEL NOT: Tufan Hocam daha öncesinde "https://github.com/lim-anggun/dfs-bfs-havelhakimi" daki projenin arayüzünü kullanmıştım, kodları yine bana aitti ancak bir kaç grafı doğru hesaplayamadığı için bir ayar çekmek istedim ama projedeki UI ı kullanmayı becermediğim için (daha doğrusu UI alışık olmadığım için kod yazarken hallaç pamuğuna döndü ) arayüzü biraz vasat olsa da kendi yaptığım bu arayüze taşındım. 
 
 Yeni arayüzüm
+
 ![alt text](https://github.com/Kulac12/Graph_6/blob/master/Graph_foto/ilk%20aray%C3%BCz.PNG)
 
 2,2,2,2 vb. dizileri hatalı çiziyordu. 
