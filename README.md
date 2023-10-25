@@ -6,4 +6,4 @@ Bu projede Havel Hakimi Algoritması kullanıldı. Kullanıcıdan bir grafın de
 
 2,2,2,2 vb. dizileri hatalı çiziyordu. 
 
-https://github.com/Kulac12/Graph_6/blob/master/Graph_foto/hh_cozim.PNG
+![https://github.com/Kulac12/Graph_6/blob/master/Graph_foto/hh_cozim.PNG]()
