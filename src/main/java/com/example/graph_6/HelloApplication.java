@@ -43,7 +43,7 @@ public class HelloApplication extends Application {
         int eleman_sayisi=degreeSequenceStr.length;
         int toplam_derece = 0;
         int tek_sayisi=0;
-        int k;
+        //int k;
 
 
         for (int i = 0; i < degreeSequenceStr.length; i++) {
