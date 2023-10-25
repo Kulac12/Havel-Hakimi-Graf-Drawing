@@ -8,7 +8,7 @@ Yeni arayüzüm
 
 ![alt text](https://github.com/Kulac12/Graph_6/blob/master/Graph_foto/ilk%20aray%C3%BCz.PNG)
 
-2,2,2,2 vb. dizileri hatalı çiziyordu. 
+("https://github.com/lim-anggun/dfs-bfs-havelhakimi" dan aldığım eski arayüz) ve 2,2,2,2 vb. dizileri hatalı çiziyordu. 
 ![alt text](https://github.com/Kulac12/Graph_6/blob/master/Graph_foto/hh_i.PNG)
 
 Sorunun neyden kaynaklandığını anlamak için önce matrisi doğru oluşturup oluşturmadığına baktım. Ve matrisi hatalı oluşturduğunu gördüm.
